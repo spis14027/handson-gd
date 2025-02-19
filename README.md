@@ -1,6 +1,4 @@
 # handson-gd
-
-# handson-gd
 Assignment:
 
 Develop an e-commerce website for selling books using PHP, MySQL, and HTML/CSS.
